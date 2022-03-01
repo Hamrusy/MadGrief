@@ -1,0 +1,4 @@
+name: MadGrief
+version: '${project.version}'
+main: ru.hamrusy.madgrief.Main
+authors: [ Hamrusy ]
